@@ -117,3 +117,40 @@
 [13Aug2025 00:12:57.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Normal
 [13Aug2025 00:13:27.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Getting an Upgrade]
 [13Aug2025 00:14:16.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Monster Hunter]
+[13Aug2025 00:19:17.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
+[13Aug2025 00:19:17.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
+[13Aug2025 00:19:55.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Monster Hunter]
+[13Aug2025 00:20:07.043] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
+[13Aug2025 00:20:09.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:56961] logged in with entity id 6251 at (76.6816555791379, 17.0, -83.0289728180634)
+[13Aug2025 00:20:09.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
+[13Aug2025 00:20:16.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
+[13Aug2025 00:20:16.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
+[13Aug2025 00:20:50.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Acquire Hardware]
+[13Aug2025 00:21:18.502] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
+[13Aug2025 00:21:20.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:51087] logged in with entity id 6655 at (76.69999998807907, 17.0, -82.88989897158132)
+[13Aug2025 00:21:20.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
+[13Aug2025 00:22:29.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
+[13Aug2025 00:22:29.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[13Aug2025 00:23:14.919] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Agus2000 is 5c83ff06-e821-4b79-81cb-195dcfd2aa1d
+[13Aug2025 00:23:19.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.224.138.49:46479] logged in with entity id 7668 at (-393.69999998807907, 30.0, -481.69999998807907)
+[13Aug2025 00:23:19.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
+[13Aug2025 00:23:28.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Isn't It Iron Pick]
+[13Aug2025 00:23:33.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Acquire Hardware]
+[13Aug2025 00:23:43.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Isn't It Iron Pick]
+[13Aug2025 00:24:34.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Suit Up]
+[13Aug2025 00:24:35.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Acquire Hardware]
+[13Aug2025 00:25:21.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Isn't It Iron Pick]
+[13Aug2025 00:26:04.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Sneak 100]
+[13Aug2025 00:27:12.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Not Today, Thank You]
+[13Aug2025 00:27:47.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Diamonds!]
+[13Aug2025 00:28:26.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Diamonds!]
+[13Aug2025 00:31:12.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Chest Slayer]
+[13Aug2025 00:31:15.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Amateur Archaeologist]
+[13Aug2025 00:31:30.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Hot Stuff]
+[13Aug2025 00:32:17.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Suit Up]
+[13Aug2025 00:36:01.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Not Today, Thank You]
+[13Aug2025 00:38:15.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Cover Me with Diamonds]
+[13Aug2025 00:42:33.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genaraab lost connection: Disconnected
+[13Aug2025 00:42:33.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab left the game
+[13Aug2025 00:44:11.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
+[13Aug2025 00:44:11.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
