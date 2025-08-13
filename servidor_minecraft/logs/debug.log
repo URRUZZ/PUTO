@@ -6541,3 +6541,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Aug2025 01:47:15.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
 [13Aug2025 01:47:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
 [13Aug2025 01:47:16.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
+[13Aug2025 01:48:02.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 01:48:02.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 01:49:18.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
+[13Aug2025 01:49:18.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[13Aug2025 01:53:02.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 01:53:02.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 01:58:02.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 01:58:02.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
