@@ -6516,3 +6516,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Aug2025 01:08:02.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Aug2025 01:13:02.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Aug2025 01:13:02.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 01:18:02.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 01:18:02.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 01:23:02.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 01:23:02.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 01:23:37.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.27082105828498015
+[13Aug2025 01:23:37.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.2895619843864665
+[13Aug2025 01:28:02.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 01:28:02.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 01:30:09.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.30467990840861603
+[13Aug2025 01:30:10.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.5085307854333223
+[13Aug2025 01:30:10.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.5925150135735748
+[13Aug2025 01:33:02.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 01:33:02.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 01:38:02.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 01:38:02.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 01:39:14.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> te fuiste de vuelta
+[13Aug2025 01:41:08.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> de vuelta
+[13Aug2025 01:43:02.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 01:43:02.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 01:43:47.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> jaja
+[13Aug2025 01:44:53.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> metete de vueltita
+[13Aug2025 01:47:15.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
+[13Aug2025 01:47:15.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
+[13Aug2025 01:47:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
+[13Aug2025 01:47:16.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z

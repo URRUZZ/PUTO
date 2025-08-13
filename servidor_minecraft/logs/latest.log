@@ -167,3 +167,16 @@
 [13Aug2025 01:06:18.902] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
 [13Aug2025 01:06:21.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:49961] logged in with entity id 22969 at (-195.93559484083852, 81.0, -501.3784169534261)
 [13Aug2025 01:06:21.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
+[13Aug2025 01:23:37.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.27082105828498015
+[13Aug2025 01:23:37.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.2895619843864665
+[13Aug2025 01:30:09.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.30467990840861603
+[13Aug2025 01:30:10.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.5085307854333223
+[13Aug2025 01:30:10.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.5925150135735748
+[13Aug2025 01:39:14.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> te fuiste de vuelta
+[13Aug2025 01:41:08.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> de vuelta
+[13Aug2025 01:43:47.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> jaja
+[13Aug2025 01:44:53.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> metete de vueltita
+[13Aug2025 01:47:15.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
+[13Aug2025 01:47:15.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
+[13Aug2025 01:47:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
+[13Aug2025 01:47:16.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
