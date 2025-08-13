@@ -154,3 +154,16 @@
 [13Aug2025 00:42:33.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab left the game
 [13Aug2025 00:44:11.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
 [13Aug2025 00:44:11.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
+[13Aug2025 00:52:00.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was slain by Cave Spider
+[13Aug2025 00:53:32.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was slain by Cave Spider
+[13Aug2025 00:58:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was slain by Cave Spider
+[13Aug2025 01:01:04.444] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
+[13Aug2025 01:01:06.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:60883] logged in with entity id 20997 at (29.30000001192093, 100.0, 43.69999998807907)
+[13Aug2025 01:01:06.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
+[13Aug2025 01:06:03.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Sweet Dreams]
+[13Aug2025 01:06:09.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> lelele
+[13Aug2025 01:06:11.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
+[13Aug2025 01:06:11.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
+[13Aug2025 01:06:18.902] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
+[13Aug2025 01:06:21.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:49961] logged in with entity id 22969 at (-195.93559484083852, 81.0, -501.3784169534261)
+[13Aug2025 01:06:21.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
