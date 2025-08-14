@@ -3546,3 +3546,44 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Aug2025 21:34:08.877] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/23832, l='ServerLevel[world]', x=-238.02, y=-20.00, z=-224.04] died: Restless Spirit was killed
 [14Aug2025 21:34:10.877] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/23848, l='ServerLevel[world]', x=-151.63, y=-20.00, z=-202.74] died: Restless Spirit was killed
 [14Aug2025 21:38:24.701] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Agus2000 is 5c83ff06-e821-4b79-81cb-195dcfd2aa1d
+[14Aug2025 21:38:27.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Timed out
+[14Aug2025 21:38:27.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[14Aug2025 21:38:29.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.224.138.49:49165] logged in with entity id 25130 at (-1817.5, 65.0, -2089.5)
+[14Aug2025 21:38:29.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
+[14Aug2025 21:41:34.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genaraab lost connection: Disconnected
+[14Aug2025 21:41:34.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab left the game
+[14Aug2025 21:41:41.849] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player genaraab is d3795d26-18d4-4215-9220-7a82e5c8a663
+[14Aug2025 21:41:44.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: genaraab[/127.244.90.39:59671] logged in with entity id 25667 at (-1816.300000011921, 65.5625, -2093.699999988079)
+[14Aug2025 21:41:44.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab joined the game
+[14Aug2025 21:42:38.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genaraab lost connection: Disconnected
+[14Aug2025 21:42:38.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab left the game
+[14Aug2025 21:43:14.147] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player genaraab is d3795d26-18d4-4215-9220-7a82e5c8a663
+[14Aug2025 21:43:15.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Timed out
+[14Aug2025 21:43:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[14Aug2025 21:43:16.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: genaraab[/127.244.90.39:48723] logged in with entity id 26031 at (-1824.5667467040305, 60.0, -2244.699999988079)
+[14Aug2025 21:43:16.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab joined the game
+[14Aug2025 21:43:18.455] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Agus2000 is 5c83ff06-e821-4b79-81cb-195dcfd2aa1d
+[14Aug2025 21:43:21.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.224.138.49:38529] logged in with entity id 26166 at (-1821.2109623782967, 63.0, -2095.300000011921)
+[14Aug2025 21:43:21.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
+[14Aug2025 21:45:13.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genaraab lost connection: Disconnected
+[14Aug2025 21:45:13.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab left the game
+[14Aug2025 21:45:51.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Timed out
+[14Aug2025 21:45:51.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[14Aug2025 21:45:52.189] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Agus2000 is 5c83ff06-e821-4b79-81cb-195dcfd2aa1d
+[14Aug2025 21:45:57.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.224.138.49:56309] logged in with entity id 27228 at (-1827.7247594171638, 63.0, -2080.00281888135)
+[14Aug2025 21:45:57.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
+[14Aug2025 21:46:08.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
+[14Aug2025 21:46:08.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
+[14Aug2025 21:46:12.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
+[14Aug2025 21:46:12.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[14Aug2025 21:46:24.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Aug2025 21:46:24.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Aug2025 21:46:24.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Aug2025 21:46:24.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Aug2025 21:46:25.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Aug2025 21:46:25.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Aug2025 21:46:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Aug2025 21:46:25.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Aug2025 21:46:25.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Aug2025 21:46:25.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Aug2025 21:46:25.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
