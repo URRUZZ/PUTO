@@ -119,3 +119,10 @@
 [14Aug2025 21:00:55.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of genaraab) moved wrongly! 0.9551053782604413
 [14Aug2025 21:00:55.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of genaraab) moved wrongly! 1.0
 [14Aug2025 21:00:55.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of genaraab) moved wrongly! 1.0
+[14Aug2025 21:07:56.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Timed out
+[14Aug2025 21:07:56.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[14Aug2025 21:07:56.811] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Aug2025 21:08:06.992] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Agus2000 is 5c83ff06-e821-4b79-81cb-195dcfd2aa1d
+[14Aug2025 21:08:09.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.224.138.49:50361] logged in with entity id 18854 at (-1823.918303630516, 63.0, -2082.911172358388)
+[14Aug2025 21:08:09.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
+[14Aug2025 21:10:52.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Suit Up]
