@@ -1,197 +1,95 @@
-[13Aug2025 00:06:57.675] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[13Aug2025 00:06:57.683] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[13Aug2025 00:07:00.002] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[13Aug2025 00:07:00.196] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/PUTO/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[13Aug2025 00:07:00.761] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/PUTO/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[13Aug2025 00:07:00.765] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/PUTO/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Aug2025 00:07:00.767] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/PUTO/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Aug2025 00:07:00.772] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/PUTO/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Aug2025 00:07:01.309] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[13Aug2025 00:07:01.311] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[13Aug2025 00:07:04.888] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[13Aug2025 00:07:05.050] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[13Aug2025 00:07:05.192] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 00:07:05.377] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 00:07:05.637] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 00:07:05.693] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 77 options available, 0 override(s) found
-[13Aug2025 00:07:08.604] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[13Aug2025 00:07:20.775] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
-[13Aug2025 00:07:21.773] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[13Aug2025 00:07:21.774] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[13Aug2025 00:07:21.781] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[13Aug2025 00:07:21.783] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[13Aug2025 00:07:21.789] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[13Aug2025 00:07:21.790] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[13Aug2025 00:07:21.796] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[13Aug2025 00:07:21.797] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[13Aug2025 00:07:22.535] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[13Aug2025 00:07:22.957] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[13Aug2025 00:07:22.958] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[13Aug2025 00:07:23.325] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[13Aug2025 00:07:28.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[13Aug2025 00:07:29.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[13Aug2025 00:07:29.328] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[13Aug2025 00:07:29.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[13Aug2025 00:07:33.015] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13Aug2025 00:07:35.519] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/PUTO/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/assets/.mcassetsroot' uses unexpected schema
-[13Aug2025 00:07:35.519] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/PUTO/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/data/.mcassetsroot' uses unexpected schema
-[13Aug2025 00:07:35.678] [main/INFO] [com.simibubi.create.Create/]: Created 255 recipes which will be injected into the game
-[13Aug2025 00:07:35.711] [main/INFO] [com.simibubi.create.Create/]: Created 21 tags which will be injected into the game
-[13Aug2025 00:07:41.269] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
-[13Aug2025 00:07:41.498] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3334 advancements
-[13Aug2025 00:07:41.518] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[13Aug2025 00:07:41.528] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[13Aug2025 00:07:43.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[13Aug2025 00:07:43.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[13Aug2025 00:07:43.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[13Aug2025 00:07:43.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[13Aug2025 00:07:43.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[13Aug2025 00:07:43.894] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[13Aug2025 00:07:44.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[13Aug2025 00:07:51.532] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[13Aug2025 00:07:52.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[13Aug2025 00:07:55.190] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[13Aug2025 00:07:55.952] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:55.954] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:55.955] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:55.999] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:56.062] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:56.069] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:56.073] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:56.080] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:57.121] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:57.200] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:57.292] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:57.789] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:58.307] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:58.416] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[13Aug2025 00:07:58.794] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:59.295] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:07:59.807] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:08:00.290] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:08:00.788] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 00:08:01.301] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[13Aug2025 00:08:01.601] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[13Aug2025 00:08:02.007] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9719 ms
-[13Aug2025 00:08:02.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.956s)! For help, type "help"
-[13Aug2025 00:08:02.099] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[13Aug2025 00:08:15.515] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
-[13Aug2025 00:08:17.622] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[13Aug2025 00:08:17.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:35061] logged in with entity id 231 at (-14.793451160055143, 77.0, 57.2228317810211)
-[13Aug2025 00:08:17.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
-[13Aug2025 00:08:21.951] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Agus2000 is 5c83ff06-e821-4b79-81cb-195dcfd2aa1d
-[13Aug2025 00:08:26.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.224.138.49:47853] logged in with entity id 271 at (-3.1094360894446056, 63.12870014022619, 5.142731766510909)
-[13Aug2025 00:08:26.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
-[13Aug2025 00:08:47.080] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player genaraab is d3795d26-18d4-4215-9220-7a82e5c8a663
-[13Aug2025 00:08:49.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: genaraab[/127.244.90.39:47859] logged in with entity id 353 at (-9.113363198339268, 68.0, 37.25032390123293)
-[13Aug2025 00:08:49.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab joined the game
-[13Aug2025 00:09:05.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> asdfafja
-[13Aug2025 00:09:08.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <genaraab> dsasa
-[13Aug2025 00:09:15.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> asassaasda
-[13Aug2025 00:09:18.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
-[13Aug2025 00:09:18.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
-[13Aug2025 00:09:24.004] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Agus2000 is 5c83ff06-e821-4b79-81cb-195dcfd2aa1d
-[13Aug2025 00:09:26.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.224.138.49:35375] logged in with entity id 476 at (-17.69999998807907, 66.0, -8.373636539833221)
-[13Aug2025 00:09:26.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
-[13Aug2025 00:09:44.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=64, z=-39} BlockPos{x=-30, y=62, z=-40}
-[13Aug2025 00:09:44.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=64, z=-41} BlockPos{x=-30, y=62, z=-42}
-[13Aug2025 00:09:48.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Stone Age]
-[13Aug2025 00:10:13.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Getting an Upgrade]
-[13Aug2025 00:10:21.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Stone Age]
-[13Aug2025 00:11:02.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Sweet Dreams]
-[13Aug2025 00:11:04.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
-[13Aug2025 00:11:04.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
-[13Aug2025 00:11:09.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genaraab lost connection: Disconnected
-[13Aug2025 00:11:09.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab left the game
-[13Aug2025 00:11:13.410] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
-[13Aug2025 00:11:13.995] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player genaraab is d3795d26-18d4-4215-9220-7a82e5c8a663
-[13Aug2025 00:11:15.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:59567] logged in with entity id 1127 at (-10.945075367100838, 69.0, 28.539170838458435)
-[13Aug2025 00:11:15.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
-[13Aug2025 00:11:16.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: genaraab[/127.244.90.39:39597] logged in with entity id 1193 at (-5.317984003402618, 68.0, 50.64146042520725)
-[13Aug2025 00:11:16.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab joined the game
-[13Aug2025 00:12:08.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Monster Hunter]
-[13Aug2025 00:12:09.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Getting an Upgrade]
-[13Aug2025 00:12:14.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Stone Age]
-[13Aug2025 00:12:32.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[13Aug2025 00:12:32.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dificulty normal<--[HERE]
-[13Aug2025 00:12:57.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Normal
-[13Aug2025 00:13:27.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Getting an Upgrade]
-[13Aug2025 00:14:16.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Monster Hunter]
-[13Aug2025 00:19:17.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
-[13Aug2025 00:19:17.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
-[13Aug2025 00:19:55.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Monster Hunter]
-[13Aug2025 00:20:07.043] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
-[13Aug2025 00:20:09.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:56961] logged in with entity id 6251 at (76.6816555791379, 17.0, -83.0289728180634)
-[13Aug2025 00:20:09.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
-[13Aug2025 00:20:16.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
-[13Aug2025 00:20:16.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
-[13Aug2025 00:20:50.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Acquire Hardware]
-[13Aug2025 00:21:18.502] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
-[13Aug2025 00:21:20.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:51087] logged in with entity id 6655 at (76.69999998807907, 17.0, -82.88989897158132)
-[13Aug2025 00:21:20.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
-[13Aug2025 00:22:29.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
-[13Aug2025 00:22:29.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
-[13Aug2025 00:23:14.919] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Agus2000 is 5c83ff06-e821-4b79-81cb-195dcfd2aa1d
-[13Aug2025 00:23:19.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.224.138.49:46479] logged in with entity id 7668 at (-393.69999998807907, 30.0, -481.69999998807907)
-[13Aug2025 00:23:19.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
-[13Aug2025 00:23:28.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Isn't It Iron Pick]
-[13Aug2025 00:23:33.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Acquire Hardware]
-[13Aug2025 00:23:43.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Isn't It Iron Pick]
-[13Aug2025 00:24:34.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Suit Up]
-[13Aug2025 00:24:35.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Acquire Hardware]
-[13Aug2025 00:25:21.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Isn't It Iron Pick]
-[13Aug2025 00:26:04.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Sneak 100]
-[13Aug2025 00:27:12.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Not Today, Thank You]
-[13Aug2025 00:27:47.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Diamonds!]
-[13Aug2025 00:28:26.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Diamonds!]
-[13Aug2025 00:31:12.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Chest Slayer]
-[13Aug2025 00:31:15.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Amateur Archaeologist]
-[13Aug2025 00:31:30.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Hot Stuff]
-[13Aug2025 00:32:17.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Suit Up]
-[13Aug2025 00:36:01.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Not Today, Thank You]
-[13Aug2025 00:38:15.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Cover Me with Diamonds]
-[13Aug2025 00:42:33.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genaraab lost connection: Disconnected
-[13Aug2025 00:42:33.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab left the game
-[13Aug2025 00:44:11.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
-[13Aug2025 00:44:11.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
-[13Aug2025 00:52:00.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was slain by Cave Spider
-[13Aug2025 00:53:32.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was slain by Cave Spider
-[13Aug2025 00:58:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was slain by Cave Spider
-[13Aug2025 01:01:04.444] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
-[13Aug2025 01:01:06.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:60883] logged in with entity id 20997 at (29.30000001192093, 100.0, 43.69999998807907)
-[13Aug2025 01:01:06.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
-[13Aug2025 01:06:03.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Sweet Dreams]
-[13Aug2025 01:06:09.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> lelele
-[13Aug2025 01:06:11.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
-[13Aug2025 01:06:11.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
-[13Aug2025 01:06:18.902] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
-[13Aug2025 01:06:21.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:49961] logged in with entity id 22969 at (-195.93559484083852, 81.0, -501.3784169534261)
-[13Aug2025 01:06:21.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
-[13Aug2025 01:23:37.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.27082105828498015
-[13Aug2025 01:23:37.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.2895619843864665
-[13Aug2025 01:30:09.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.30467990840861603
-[13Aug2025 01:30:10.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.5085307854333223
-[13Aug2025 01:30:10.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jocandinho) moved wrongly! 0.5925150135735748
-[13Aug2025 01:39:14.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> te fuiste de vuelta
-[13Aug2025 01:41:08.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> de vuelta
-[13Aug2025 01:43:47.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> jaja
-[13Aug2025 01:44:53.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> metete de vueltita
-[13Aug2025 01:47:15.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
-[13Aug2025 01:47:15.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
-[13Aug2025 01:47:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
-[13Aug2025 01:47:16.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> z
-[13Aug2025 01:49:18.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
-[13Aug2025 01:49:18.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
-[13Aug2025 01:58:30.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
-[13Aug2025 01:58:30.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
-[13Aug2025 01:59:09.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[13Aug2025 01:59:09.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[13Aug2025 01:59:09.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[13Aug2025 01:59:09.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[13Aug2025 01:59:09.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13Aug2025 01:59:10.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13Aug2025 01:59:10.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13Aug2025 01:59:10.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13Aug2025 01:59:10.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13Aug2025 01:59:10.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13Aug2025 01:59:10.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Aug2025 17:56:17.495] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[14Aug2025 17:56:17.501] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[14Aug2025 17:56:18.485] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[14Aug2025 17:56:18.629] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/PUTO/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[14Aug2025 17:56:19.169] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/PUTO/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[14Aug2025 17:56:19.174] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/PUTO/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Aug2025 17:56:19.180] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/PUTO/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Aug2025 17:56:19.186] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/PUTO/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Aug2025 17:56:19.615] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[14Aug2025 17:56:19.618] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[14Aug2025 17:56:23.273] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Aug2025 17:56:23.445] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[14Aug2025 17:56:23.561] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Aug2025 17:56:23.659] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Aug2025 17:56:23.897] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Aug2025 17:56:23.952] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 77 options available, 0 override(s) found
+[14Aug2025 17:56:26.387] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14Aug2025 17:56:39.058] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
+[14Aug2025 17:56:40.371] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[14Aug2025 17:56:40.373] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[14Aug2025 17:56:40.386] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[14Aug2025 17:56:40.387] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[14Aug2025 17:56:40.393] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[14Aug2025 17:56:40.400] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[14Aug2025 17:56:40.408] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[14Aug2025 17:56:40.413] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[14Aug2025 17:56:41.267] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[14Aug2025 17:56:41.676] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[14Aug2025 17:56:41.677] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[14Aug2025 17:56:41.893] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[14Aug2025 17:56:46.823] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[14Aug2025 17:56:47.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[14Aug2025 17:56:47.789] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Aug2025 17:56:48.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[14Aug2025 17:56:52.542] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Aug2025 17:56:54.897] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/PUTO/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/assets/.mcassetsroot' uses unexpected schema
+[14Aug2025 17:56:54.898] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/PUTO/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/data/.mcassetsroot' uses unexpected schema
+[14Aug2025 17:56:55.087] [main/INFO] [com.simibubi.create.Create/]: Created 255 recipes which will be injected into the game
+[14Aug2025 17:56:55.123] [main/INFO] [com.simibubi.create.Create/]: Created 21 tags which will be injected into the game
+[14Aug2025 17:57:01.091] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[14Aug2025 17:57:01.400] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3334 advancements
+[14Aug2025 17:57:01.414] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[14Aug2025 17:57:01.423] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[14Aug2025 17:57:03.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[14Aug2025 17:57:03.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Aug2025 17:57:03.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Aug2025 17:57:03.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Aug2025 17:57:04.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Aug2025 17:57:04.178] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[14Aug2025 17:57:04.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[14Aug2025 17:57:11.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Aug2025 17:57:17.195] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:17.197] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:17.201] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:17.202] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:17.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:17.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:17.209] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:17.212] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:17.216] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:17.253] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:17.275] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:17.440] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:18.053] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:18.419] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:18.919] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:19.423] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:19.934] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:20.420] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:20.919] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:21.419] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:21.919] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 17:57:22.771] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10853 ms
+[14Aug2025 17:57:22.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.412s)! For help, type "help"
+[14Aug2025 17:57:22.848] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Aug2025 17:57:39.672] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
+[14Aug2025 17:57:41.906] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[14Aug2025 17:57:42.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:57407] logged in with entity id 92 at (-1846.1007508891141, 63.0, -2085.013773298478)
+[14Aug2025 17:57:42.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
+[14Aug2025 17:57:46.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4487ms or 89 ticks behind
+[14Aug2025 17:57:47.359] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Agus2000 is 5c83ff06-e821-4b79-81cb-195dcfd2aa1d
+[14Aug2025 17:57:50.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.224.138.49:51185] logged in with entity id 246 at (-1856.4274287901276, 63.0, -2082.227244920658)
+[14Aug2025 17:57:50.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
+[14Aug2025 17:59:04.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Disconnected
+[14Aug2025 17:59:04.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
+[14Aug2025 17:59:09.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Aug2025 17:59:09.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Aug2025 17:59:09.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Aug2025 17:59:10.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Aug2025 17:59:11.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Aug2025 17:59:11.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Aug2025 17:59:11.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Aug2025 17:59:11.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Aug2025 17:59:11.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Aug2025 17:59:11.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
