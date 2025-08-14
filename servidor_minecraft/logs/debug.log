@@ -5379,3 +5379,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Aug2025 20:33:36.814] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@276afe64 into net.minecraft.network.Connection@660a5797
 [14Aug2025 20:33:36.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab joined the game
 [14Aug2025 20:35:20.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Sweet Dreams]
+[14Aug2025 20:38:13.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 20:38:13.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 20:43:13.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 20:43:14.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 20:45:22.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Best Friends Forever]
+[14Aug2025 20:48:13.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 20:48:13.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 20:51:09.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> x:-1831 z:-2080
+[14Aug2025 20:51:21.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [The Cutest Predator]
+[14Aug2025 20:53:13.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 20:53:13.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 20:58:13.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 20:58:13.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 21:00:55.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of genaraab) moved wrongly! 0.8931064499488457
+[14Aug2025 21:00:55.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of genaraab) moved wrongly! 0.9551053782604413
+[14Aug2025 21:00:55.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of genaraab) moved wrongly! 1.0
+[14Aug2025 21:00:55.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of genaraab) moved wrongly! 1.0
+[14Aug2025 21:03:13.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 21:03:13.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

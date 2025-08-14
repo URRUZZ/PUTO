@@ -112,3 +112,10 @@
 [14Aug2025 20:33:36.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: genaraab[/127.244.90.39:59263] logged in with entity id 1587 at (-251.2334622742807, 63.0, 324.7396611823501)
 [14Aug2025 20:33:36.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab joined the game
 [14Aug2025 20:35:20.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Sweet Dreams]
+[14Aug2025 20:45:22.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Best Friends Forever]
+[14Aug2025 20:51:09.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jocandinho> x:-1831 z:-2080
+[14Aug2025 20:51:21.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [The Cutest Predator]
+[14Aug2025 21:00:55.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of genaraab) moved wrongly! 0.8931064499488457
+[14Aug2025 21:00:55.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of genaraab) moved wrongly! 0.9551053782604413
+[14Aug2025 21:00:55.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of genaraab) moved wrongly! 1.0
+[14Aug2025 21:00:55.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of genaraab) moved wrongly! 1.0
